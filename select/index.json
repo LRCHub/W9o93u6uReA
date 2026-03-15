@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "スタートライン",
+  "base_artist": "内田雄馬",
+  "createdAt": "2026-03-15T22:19:04.741607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スタートライン-Acoustic Ver.-",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/01_スタートライン-Acoustic_Ver.-_7!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スタートライン (Acoustic Ver.)",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/02_スタートライン_(Acoustic_Ver.)_7!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/03_スタートライン_Novelbright.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "sae",
+      "has_synced": false,
+      "path": "select/04_スタートライン_sae.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/05_スタートライン_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スタートライン! ～ひめ ver.～",
+      "artist": "るか from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/06_スタートライン!_~ひめ_ver.~_るか_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/07_スタートライン_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/08_スタートライン_海援隊.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スタートライン(オリジナル・カラオケ)",
+      "artist": "海援隊",
+      "has_synced": false,
+      "path": "select/09_スタートライン(オリジナル・カラオケ)_海援隊.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スタートライン～TV EDIT version～",
+      "artist": "COACH☆",
+      "has_synced": false,
+      "path": "select/10_スタートライン~TV_EDIT_version~_COACH☆.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スタートライン～TV EDIT version～",
+      "artist": "COACH",
+      "has_synced": false,
+      "path": "select/11_スタートライン~TV_EDIT_version~_COACH.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "Yuma Uchida",
+      "has_synced": false,
+      "path": "select/12_スタートライン_Yuma_Uchida.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "777☆SISTERS",
+      "has_synced": true,
+      "path": "select/13_スタートライン_777☆SISTERS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "スタートライン",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/14_スタートライン_堀江由衣.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スタートライン",
+      "artist": "内田雄馬",
+      "has_synced": false,
+      "path": "select/pl_01_スタートライン_内田雄馬.txt"
+    }
+  ]
+}
